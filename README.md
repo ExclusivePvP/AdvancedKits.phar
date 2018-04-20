@@ -1,0 +1,2 @@
+# AdvancedKits.phar
+Plugin
